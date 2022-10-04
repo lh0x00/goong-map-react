@@ -1206,10 +1206,10 @@
     unique-filename "^1.1.1"
     which "^1.3.1"
 
-"@goongmaps/goong-js@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@goongmaps/goong-js/-/goong-js-1.0.6.tgz#6751c83acdfce75676034d4c5c5702d136b3536f"
-  integrity sha512-16R4zsy0eGAZWE9B9cjerx8FMmXCU4IN+RNQ1oWIs8CE1Mx/eGwwO4Lr20ABgqXezGUhkuX3g1mleB1R/B0j8g==
+"@goongmaps/goong-js@^1.0.8":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@goongmaps/goong-js/-/goong-js-1.0.9.tgz#987521090309ebffe18190364cfd8f81a6380862"
+  integrity sha512-FcAvJU/H8TvYMClgerPvuMDavu11YH2ojs5BV9/tFmLheT28nK0X4EptEoPu8oiBsP4yjvTo0RJInHWntX/HAg==
   dependencies:
     "@mapbox/geojson-rewind" "^0.4.0"
     "@mapbox/geojson-types" "^1.0.2"
